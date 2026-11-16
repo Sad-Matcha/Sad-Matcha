@@ -1,4 +1,4 @@
-<p><b>English</b> | <a href="./README_CN.md">简体中文</a></p>
+<p><b>EN</b> | <a href="./README_CN.md">CN</a></p>
 
 🌱 JOIN : SINCE 2020
 
