@@ -1,6 +1,6 @@
-<p><b>CN</b> | <a href="./README.md">EN</a></p>
+<p><b>Chinese</b> | <a href="./README.md">EN</a></p>
 
-🌱 JOIN : SINCE 2020
+🌱 加入：自2020年起
 
 📜 此情可待成追忆，只是当时已惘然。 ——李商隐《锦瑟》
 
